@@ -1,4 +1,4 @@
-name: deploy sfcForthr
+name: deploy pcohituFOR
 
 on:
   push:
